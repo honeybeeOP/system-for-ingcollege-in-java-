@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=course
+comment1.params=courseID\ coursename\ duration
+comment1.target=course(java.lang.String,\ java.lang.String,\ int)
+comment1.text=constructing\ constructors\ that\ take\ parameter\ of\ String,\ String\ and\ int\ date\ type
+comment2.params=
+comment2.target=java.lang.String\ getcourseID()
+comment3.params=
+comment3.target=java.lang.String\ getcoursename()
+comment4.params=
+comment4.target=int\ getduration()
+comment5.params=
+comment5.target=java.lang.String\ getcourseleader()
+comment6.params=courseleader
+comment6.target=void\ setcourseleader(java.lang.String)
+comment7.params=
+comment7.target=void\ display()
+numComments=8
